@@ -26,7 +26,7 @@ export default function Team() {
           </div>
 
           {/* Join Team Section */}
-          <div className="text-center">
+          {/* <div className="text-center">
             <div className="bg-gradient-to-r from-blue-900/30 to-purple-900/30 p-8 rounded-xl border border-blue-500/30 backdrop-blur-sm">
               <h2 className="text-3xl font-bold text-white mb-4">Want to Join Our Team?</h2>
               <p className="text-gray-300 mb-8 text-lg max-w-2xl mx-auto">
@@ -48,7 +48,7 @@ export default function Team() {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
