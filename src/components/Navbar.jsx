@@ -17,10 +17,10 @@ export default function Navbar() {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-gradient-to-br from-blue-400 to-purple-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">SF</span>
+                <span className="text-white font-bold text-sm"><img src="https://i.postimg.cc/6pMYd4JY/unnamed.png" alt="SF" /></span>
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                Sci-Fi CU
+                Sci-Fi Innovation Club
               </span>
             </Link>
           </div>

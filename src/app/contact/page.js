@@ -290,7 +290,7 @@ export default function Contact() {
                     <div>
                       <p className="text-gray-300 font-medium">Email</p>
                       <a href="mailto:scificlub@gmail.com" className="text-purple-400 hover:text-purple-300">
-                        scificlub@gmail.com
+                        scifiinnovationclub@gmail.com
                       </a>
                     </div>
                   </div>
